@@ -1,0 +1,13 @@
+{
+    "name": "pie/redirect-to-admin",
+    "description": "A WordPress theme that serves no purpose than to remove the front end of your site and redirect to the admin.",
+    "type": "wordpress-theme",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "The team at PIE",
+            "email": "dev@pie.co.de"
+        }
+    ],
+    "require": {}
+}
